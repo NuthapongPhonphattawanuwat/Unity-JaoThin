@@ -1,0 +1,4 @@
+repository "Ello Board Game@Jzolate@cloud"
+  path "/"
+    br "/main"
+    co "/main"
